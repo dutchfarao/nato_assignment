@@ -1,0 +1,6 @@
+0 = 'Eastern Europe'
+1 = 'Russia'
+2 = 'Baltics'
+3 = 'Africa'
+4 = 'Iraq'
+5 = 'Western Europe'
